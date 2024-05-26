@@ -13,8 +13,8 @@
 Đầu tiên, clone repository về máy cục bộ của bạn:
 
 ```sh
-git clone https://github.com/yourusername/alzheimers-detection.git
-cd alzheimers-detection
+git clone https://github.com/vinhnado/Alzheimer-s-Disease-Image-Detection.git
+cd Alzheimer-s-Disease-Image-Detection
 ```
 
 ### Bước 2: Tạo Môi Trường Ảo (Virtual Environment)
@@ -22,7 +22,7 @@ cd alzheimers-detection
 Tạo một môi trường ảo để quản lý các phụ thuộc của dự án:
 
 ```sh
-python3.9 -m venv .venv
+python -m venv .venv
 ```
 
 ### Bước 3: Kích Hoạt Môi Trường Ảo
